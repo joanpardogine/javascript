@@ -1,3 +1,5 @@
+https://scripterswar.com/tutorial/html5
+
 # Creació d'un joca amb JavaScript pas a pas
 
 ## Creació de la tela (canvas) de joc
