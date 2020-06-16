@@ -2,7 +2,7 @@
 
 ## Creació de la tela (canvas) de joc
 
-1. Crear un fitxer anomenat [index.html](pasos/index_0001.html) amb el següent contingut.
+> **1er pas)** Crear un fitxer anomenat [index.html](pasos/index_0001.html) amb el següent contingut.
 
 ```html
 <canvas id="tela" width="500" height="500" style="border: 5px solid black;"></canvas>
@@ -15,11 +15,13 @@ Es crea un objecte del tipus [**```canvas```**](https://www.w3schools.com/html/h
 Com pots veure, de moment, no cal escriure res més, tot el que falta, ja ho "afegirà" el navegador en carregar la pàgina.
 
 I si obrim el fitxer **```index.html```** amb qualsevol navegador, en el nostre cas farem servir el **Chrome**, s'obté el següent resultat:
+
 &nbsp;
 ----
 ![alt text](images/image00001.png "Fitxer index.html")
 ----
 
+> **2n pas)** Crear un fitxer anomenat [index.html](pasos/index_0001.html) amb el següent contingut.
 ```html
 <canvas id="tela" width="500" height="500" style="border: 5px solid black;"></canvas>
 <script>
