@@ -10,6 +10,7 @@
 
 Si obrim el fitxer index.html obtenim el següent:
 
+![alt text](images/image00001.png "Fitxer index.html")
 
 ```html
 <canvas id="tela" width="500" height="500" style="border: 5px solid black;"></canvas>
