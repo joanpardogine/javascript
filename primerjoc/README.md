@@ -10,14 +10,13 @@
 
 ### Explicació
 
-Es crea un objecte del tipus [**```canvas```**](https://www.w3schools.com/html/html5_canvas.asp) amb un identificador ```id="tela"```** , amb una mida de **```500 píxels```** tant d'alçada (**```height="500"```**), com d'amplada (**```width="500"```**) i un contorn continuo **```sòlid```** de color negre **```black```** i de **```5 pixels```** de gruix (**```border: 5px solid black```**).
+Es crea un objecte del tipus [**```canvas```**](https://www.w3schools.com/html/html5_canvas.asp) amb un identificador **```id="tela"```** , amb una mida de **```500 píxels```** tant d'alçada (**```height="500"```**), com d'amplada (**```width="500"```**) i un contorn continuo **```sòlid```** de color negre **```black```** i de **```5 pixels```** de gruix (**```border: 5px solid black```**).
 
 Com pots veure, de moment, no cal escriure res més, tot el que falta, ja ho "afegirà" el navegador en carregar la pàgina.
 
 I si obrim el fitxer **```index.html```** amb qualsevol navegador, en el nostre cas farem servir el **Chrome**, s'obté el següent resultat:
-
-====
-
+&nbsp;
+----
 ![alt text](images/image00001.png "Fitxer index.html")
 ----
 
