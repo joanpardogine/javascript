@@ -8,7 +8,12 @@
 <canvas id="tela" width="500" height="500" style="border: 5px solid black;"></canvas>
 ```
 
-Si obrim el fitxer index.html obtenim el següent:
+### Explicació
+
+Es crea un objecte del tipus [**```canvas```**](https://www.w3schools.com/html/html5_canvas.asp)
+
+
+   Si obrim el fitxer index.html obtenim el següent:
 
 ![alt text](images/image00001.png "Fitxer index.html")
 
